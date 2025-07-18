@@ -14,7 +14,6 @@
 
    👉 [點我安裝腳本](https://raw.githubusercontent.com/liweileeliweilee/youtube-endscreen-toggle/main/youtube-endscreen-toggle.user.js)
 
-> 請將上面網址中的 `你的帳號` 替換為你的 GitHub 使用者名稱。
 
 ## 🎹 快捷鍵
 
